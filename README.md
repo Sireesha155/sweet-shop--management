@@ -1626,9 +1626,9 @@ MIT License - Copyright (c) 2024
 
 ## 📞 Contact
 
-**Author:** Your Name  
-**Email:** your.email@example.com  
-**GitHub:** [@yourusername](https://github.com/yourusername)
+**Author:** palagiri sireesha 
+**Email:** palagirisireesha810@gmail.com  
+**GitHub:** https://github.com/Sireesha155
 
 ---
 
