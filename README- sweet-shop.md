@@ -2153,3 +2153,39 @@ CREATE DATABASE sweet_shop_db;
 
 _Sweet Shop Management System v1.0.0_  
 _Last Updated: January 2025_
+
+Note:-
+
+## 📸 Screenshots
+
+> **Note:** The following screenshots serve as visual references for the application's interface. Actual implementation may differ slightly in styling while preserving all core functionality and maintaining professional UI/UX standards.
+
+### Login Page
+- Elegant gradient-based authentication interface
+- Role-based login options (User/Admin)
+- Responsive design with modern aesthetics
+- Clear visual hierarchy and call-to-action buttons
+
+### User Dashboard
+- Grid-based sweet catalog display
+- Real-time stock availability indicators
+- Advanced search and filtering capabilities
+- Intuitive purchase workflow
+- Responsive card-based layout
+
+### Admin Panel
+- Comprehensive analytics dashboard
+  - Total inventory metrics
+  - Out-of-stock alerts
+  - Total inventory valuation
+- Full CRUD operations for sweet management
+- Bulk inventory management tools
+- Role-based access control enforcement
+
+### Key UI Features
+- Modern gradient color schemes
+- Smooth animations and transitions
+- Mobile-responsive design
+- Accessibility-compliant components
+- Toast notifications for user feedback
+- Modal dialogs for data entry
